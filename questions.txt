@@ -1,0 +1,5 @@
+1,Reverse Array,Write a program to reverse an array.,Array
+2,Check Palindrome,Check if a string is a palindrome.,String
+3,Find Max,Find the maximum element in an array.,Array
+4,Sort Array,Sort the array in ascending order.,Array
+5,Count Vowels,Count vowels in a string.,String
